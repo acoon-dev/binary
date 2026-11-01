@@ -1,0 +1,13 @@
+# Build/run artifacts
+/.interop/
+/tools/vector_gen/build/
+/.picoquic-build/
+/vendor/picotls/
+/vendor/picoquic/build/
+/.worktrees/
+.idea/
+__pycache__/
+
+# Rust workspace artifacts
+/target/
+**/*.rs.bk
